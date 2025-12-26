@@ -15,13 +15,13 @@ find_package(nlohmann_json 3.10.5 REQUIRED)
 
 # Указываем исходники
 add_executable(weather_client 
-    usinghttplib/main.cpp
-    usinghttplib/WeatherClient.cpp
-    usinghttplib/AppMenu.cpp
+    src/main.cpp
+    src/WeatherClient.cpp
+    src/AppMenu.cpp
 )
 
 # Подключаем директорию с заголовками
-target_include_directories(weather_client PRIVATE usinghttplib)
+target_include_directories(weather_client PRIVATE src)
 
 # Подключаем библиотеки
 target_link_libraries(weather_client 

@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/alex/Documents/weather_app/usinghttplib/AppMenu.cpp" "CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o" "gcc" "CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o.d"
-  "/home/alex/Documents/weather_app/usinghttplib/WeatherClient.cpp" "CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o" "gcc" "CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o.d"
-  "/home/alex/Documents/weather_app/usinghttplib/main.cpp" "CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o" "gcc" "CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o.d"
+  "/home/alex/Documents/weather_app/src/AppMenu.cpp" "CMakeFiles/weather_client.dir/src/AppMenu.cpp.o" "gcc" "CMakeFiles/weather_client.dir/src/AppMenu.cpp.o.d"
+  "/home/alex/Documents/weather_app/src/WeatherClient.cpp" "CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o" "gcc" "CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o.d"
+  "/home/alex/Documents/weather_app/src/main.cpp" "CMakeFiles/weather_client.dir/src/main.cpp.o" "gcc" "CMakeFiles/weather_client.dir/src/main.cpp.o.d"
   "" "weather_client" "gcc" "CMakeFiles/weather_client.dir/link.d"
   )
 

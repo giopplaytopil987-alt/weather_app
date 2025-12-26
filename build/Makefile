@@ -129,77 +129,77 @@ weather_client/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/build
 .PHONY : weather_client/fast
 
-usinghttplib/AppMenu.o: usinghttplib/AppMenu.cpp.o
-.PHONY : usinghttplib/AppMenu.o
+src/AppMenu.o: src/AppMenu.cpp.o
+.PHONY : src/AppMenu.o
 
 # target to build an object file
-usinghttplib/AppMenu.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o
-.PHONY : usinghttplib/AppMenu.cpp.o
+src/AppMenu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/src/AppMenu.cpp.o
+.PHONY : src/AppMenu.cpp.o
 
-usinghttplib/AppMenu.i: usinghttplib/AppMenu.cpp.i
-.PHONY : usinghttplib/AppMenu.i
+src/AppMenu.i: src/AppMenu.cpp.i
+.PHONY : src/AppMenu.i
 
 # target to preprocess a source file
-usinghttplib/AppMenu.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.i
-.PHONY : usinghttplib/AppMenu.cpp.i
+src/AppMenu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/src/AppMenu.cpp.i
+.PHONY : src/AppMenu.cpp.i
 
-usinghttplib/AppMenu.s: usinghttplib/AppMenu.cpp.s
-.PHONY : usinghttplib/AppMenu.s
+src/AppMenu.s: src/AppMenu.cpp.s
+.PHONY : src/AppMenu.s
 
 # target to generate assembly for a file
-usinghttplib/AppMenu.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.s
-.PHONY : usinghttplib/AppMenu.cpp.s
+src/AppMenu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/src/AppMenu.cpp.s
+.PHONY : src/AppMenu.cpp.s
 
-usinghttplib/WeatherClient.o: usinghttplib/WeatherClient.cpp.o
-.PHONY : usinghttplib/WeatherClient.o
+src/WeatherClient.o: src/WeatherClient.cpp.o
+.PHONY : src/WeatherClient.o
 
 # target to build an object file
-usinghttplib/WeatherClient.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o
-.PHONY : usinghttplib/WeatherClient.cpp.o
+src/WeatherClient.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o
+.PHONY : src/WeatherClient.cpp.o
 
-usinghttplib/WeatherClient.i: usinghttplib/WeatherClient.cpp.i
-.PHONY : usinghttplib/WeatherClient.i
+src/WeatherClient.i: src/WeatherClient.cpp.i
+.PHONY : src/WeatherClient.i
 
 # target to preprocess a source file
-usinghttplib/WeatherClient.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.i
-.PHONY : usinghttplib/WeatherClient.cpp.i
+src/WeatherClient.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/src/WeatherClient.cpp.i
+.PHONY : src/WeatherClient.cpp.i
 
-usinghttplib/WeatherClient.s: usinghttplib/WeatherClient.cpp.s
-.PHONY : usinghttplib/WeatherClient.s
+src/WeatherClient.s: src/WeatherClient.cpp.s
+.PHONY : src/WeatherClient.s
 
 # target to generate assembly for a file
-usinghttplib/WeatherClient.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.s
-.PHONY : usinghttplib/WeatherClient.cpp.s
+src/WeatherClient.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/src/WeatherClient.cpp.s
+.PHONY : src/WeatherClient.cpp.s
 
-usinghttplib/main.o: usinghttplib/main.cpp.o
-.PHONY : usinghttplib/main.o
+src/main.o: src/main.cpp.o
+.PHONY : src/main.o
 
 # target to build an object file
-usinghttplib/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o
-.PHONY : usinghttplib/main.cpp.o
+src/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/src/main.cpp.o
+.PHONY : src/main.cpp.o
 
-usinghttplib/main.i: usinghttplib/main.cpp.i
-.PHONY : usinghttplib/main.i
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-usinghttplib/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/usinghttplib/main.cpp.i
-.PHONY : usinghttplib/main.cpp.i
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-usinghttplib/main.s: usinghttplib/main.cpp.s
-.PHONY : usinghttplib/main.s
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-usinghttplib/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/usinghttplib/main.cpp.s
-.PHONY : usinghttplib/main.cpp.s
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/weather_client.dir/build.make CMakeFiles/weather_client.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
 # Help Target
 help:
@@ -210,15 +210,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... weather_client"
-	@echo "... usinghttplib/AppMenu.o"
-	@echo "... usinghttplib/AppMenu.i"
-	@echo "... usinghttplib/AppMenu.s"
-	@echo "... usinghttplib/WeatherClient.o"
-	@echo "... usinghttplib/WeatherClient.i"
-	@echo "... usinghttplib/WeatherClient.s"
-	@echo "... usinghttplib/main.o"
-	@echo "... usinghttplib/main.i"
-	@echo "... usinghttplib/main.s"
+	@echo "... src/AppMenu.o"
+	@echo "... src/AppMenu.i"
+	@echo "... src/AppMenu.s"
+	@echo "... src/WeatherClient.o"
+	@echo "... src/WeatherClient.i"
+	@echo "... src/WeatherClient.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
 .PHONY : help
 
 

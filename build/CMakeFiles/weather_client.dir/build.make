@@ -72,60 +72,60 @@ include CMakeFiles/weather_client.dir/flags.make
 CMakeFiles/weather_client.dir/codegen:
 .PHONY : CMakeFiles/weather_client.dir/codegen
 
-CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o: CMakeFiles/weather_client.dir/flags.make
-CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o: /home/alex/Documents/weather_app/usinghttplib/main.cpp
-CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o: CMakeFiles/weather_client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alex/Documents/weather_app/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o -MF CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o.d -o CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o -c /home/alex/Documents/weather_app/usinghttplib/main.cpp
+CMakeFiles/weather_client.dir/src/main.cpp.o: CMakeFiles/weather_client.dir/flags.make
+CMakeFiles/weather_client.dir/src/main.cpp.o: /home/alex/Documents/weather_app/src/main.cpp
+CMakeFiles/weather_client.dir/src/main.cpp.o: CMakeFiles/weather_client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alex/Documents/weather_app/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/weather_client.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/weather_client.dir/src/main.cpp.o -MF CMakeFiles/weather_client.dir/src/main.cpp.o.d -o CMakeFiles/weather_client.dir/src/main.cpp.o -c /home/alex/Documents/weather_app/src/main.cpp
 
-CMakeFiles/weather_client.dir/usinghttplib/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/weather_client.dir/usinghttplib/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alex/Documents/weather_app/usinghttplib/main.cpp > CMakeFiles/weather_client.dir/usinghttplib/main.cpp.i
+CMakeFiles/weather_client.dir/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/weather_client.dir/src/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alex/Documents/weather_app/src/main.cpp > CMakeFiles/weather_client.dir/src/main.cpp.i
 
-CMakeFiles/weather_client.dir/usinghttplib/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/weather_client.dir/usinghttplib/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alex/Documents/weather_app/usinghttplib/main.cpp -o CMakeFiles/weather_client.dir/usinghttplib/main.cpp.s
+CMakeFiles/weather_client.dir/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/weather_client.dir/src/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alex/Documents/weather_app/src/main.cpp -o CMakeFiles/weather_client.dir/src/main.cpp.s
 
-CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o: CMakeFiles/weather_client.dir/flags.make
-CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o: /home/alex/Documents/weather_app/usinghttplib/WeatherClient.cpp
-CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o: CMakeFiles/weather_client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alex/Documents/weather_app/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o -MF CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o.d -o CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o -c /home/alex/Documents/weather_app/usinghttplib/WeatherClient.cpp
+CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o: CMakeFiles/weather_client.dir/flags.make
+CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o: /home/alex/Documents/weather_app/src/WeatherClient.cpp
+CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o: CMakeFiles/weather_client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alex/Documents/weather_app/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o -MF CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o.d -o CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o -c /home/alex/Documents/weather_app/src/WeatherClient.cpp
 
-CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alex/Documents/weather_app/usinghttplib/WeatherClient.cpp > CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.i
+CMakeFiles/weather_client.dir/src/WeatherClient.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/weather_client.dir/src/WeatherClient.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alex/Documents/weather_app/src/WeatherClient.cpp > CMakeFiles/weather_client.dir/src/WeatherClient.cpp.i
 
-CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alex/Documents/weather_app/usinghttplib/WeatherClient.cpp -o CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.s
+CMakeFiles/weather_client.dir/src/WeatherClient.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/weather_client.dir/src/WeatherClient.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alex/Documents/weather_app/src/WeatherClient.cpp -o CMakeFiles/weather_client.dir/src/WeatherClient.cpp.s
 
-CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o: CMakeFiles/weather_client.dir/flags.make
-CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o: /home/alex/Documents/weather_app/usinghttplib/AppMenu.cpp
-CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o: CMakeFiles/weather_client.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alex/Documents/weather_app/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o -MF CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o.d -o CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o -c /home/alex/Documents/weather_app/usinghttplib/AppMenu.cpp
+CMakeFiles/weather_client.dir/src/AppMenu.cpp.o: CMakeFiles/weather_client.dir/flags.make
+CMakeFiles/weather_client.dir/src/AppMenu.cpp.o: /home/alex/Documents/weather_app/src/AppMenu.cpp
+CMakeFiles/weather_client.dir/src/AppMenu.cpp.o: CMakeFiles/weather_client.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alex/Documents/weather_app/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/weather_client.dir/src/AppMenu.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/weather_client.dir/src/AppMenu.cpp.o -MF CMakeFiles/weather_client.dir/src/AppMenu.cpp.o.d -o CMakeFiles/weather_client.dir/src/AppMenu.cpp.o -c /home/alex/Documents/weather_app/src/AppMenu.cpp
 
-CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alex/Documents/weather_app/usinghttplib/AppMenu.cpp > CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.i
+CMakeFiles/weather_client.dir/src/AppMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/weather_client.dir/src/AppMenu.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alex/Documents/weather_app/src/AppMenu.cpp > CMakeFiles/weather_client.dir/src/AppMenu.cpp.i
 
-CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alex/Documents/weather_app/usinghttplib/AppMenu.cpp -o CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.s
+CMakeFiles/weather_client.dir/src/AppMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/weather_client.dir/src/AppMenu.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alex/Documents/weather_app/src/AppMenu.cpp -o CMakeFiles/weather_client.dir/src/AppMenu.cpp.s
 
 # Object files for target weather_client
 weather_client_OBJECTS = \
-"CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o" \
-"CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o" \
-"CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o"
+"CMakeFiles/weather_client.dir/src/main.cpp.o" \
+"CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o" \
+"CMakeFiles/weather_client.dir/src/AppMenu.cpp.o"
 
 # External object files for target weather_client
 weather_client_EXTERNAL_OBJECTS =
 
-weather_client: CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o
-weather_client: CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o
-weather_client: CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o
+weather_client: CMakeFiles/weather_client.dir/src/main.cpp.o
+weather_client: CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o
+weather_client: CMakeFiles/weather_client.dir/src/AppMenu.cpp.o
 weather_client: CMakeFiles/weather_client.dir/build.make
 weather_client: CMakeFiles/weather_client.dir/compiler_depend.ts
 weather_client: CMakeFiles/weather_client.dir/link.txt

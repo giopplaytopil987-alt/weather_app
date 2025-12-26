@@ -2,9 +2,9 @@ weather_client: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o \
-  CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o \
-  CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o \
-  CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o \
+  CMakeFiles/weather_client.dir/src/main.cpp.o \
+  CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o \
+  CMakeFiles/weather_client.dir/src/AppMenu.cpp.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libssl.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libcrypto.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libpthread.a \
@@ -42,11 +42,11 @@ weather_client: \
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o:
 
-CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o:
+CMakeFiles/weather_client.dir/src/main.cpp.o:
 
-CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o:
+CMakeFiles/weather_client.dir/src/WeatherClient.cpp.o:
 
-CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o:
+CMakeFiles/weather_client.dir/src/AppMenu.cpp.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/libssl.so:
 
