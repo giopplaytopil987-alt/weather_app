@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/weather_client.dir/link.d CMakeFiles/weather_client.dir/usinghttplib/main.cpp.o CMakeFiles/weather_client.dir/usinghttplib/WeatherClient.cpp.o CMakeFiles/weather_client.dir/usinghttplib/AppMenu.cpp.o -o weather_client  -lssl -lcrypto -lpthread
